@@ -1,5 +1,6 @@
 # identitas mahasiswa
 nama saya : Wahyu Dwi Ardhani
+npm : 07352311082
 usia : 20 Tahun
 prodi saya : teknik informatika
 kelas 5if3
